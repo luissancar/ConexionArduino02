@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
     public static final int MESSAGE_Desconectado = 6;
     public static final int REQUEST_ENABLE_BT = 7;
 
-    public static final String DEVICE_NAME = "device_name";
+    public static final String DEVICE_NAME = "Arduino1";
     public static final String TOAST = "toast";
     //Nombre del dispositivo conectado
     private String mConnectedDeviceName = null;
